@@ -10,6 +10,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import java.sql.SQLOutput;
 import java.time.Duration;
 
 public class Test1 {
@@ -73,7 +74,8 @@ Thread.sleep(1000);
       Thread.sleep(1000);
       driver.quit();
 
-
+      System.out.println("dasdasdasdas");
   }
 
 }
+
