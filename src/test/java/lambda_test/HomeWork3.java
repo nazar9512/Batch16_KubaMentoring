@@ -42,6 +42,7 @@ public class HomeWork3 {
 
 
         System.out.println("dads");
+        System.out.println("dsadagi");
 
     }
 
