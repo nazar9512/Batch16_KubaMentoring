@@ -40,6 +40,10 @@ public class HomeWork3 {
         Assert.assertEquals(BrowserUtils.getText(header),"List of All Orders");
         driver.quit();
 
+
+        System.out.println("dads");
+        System.out.println("dsadagi");
+
     }
 
     @Test
